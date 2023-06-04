@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Jainish Savalia',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Personal portfolio website of Jainish Savalia',
 
   // social usernames (optional)
   twitter: 'SavaliaJainish',
